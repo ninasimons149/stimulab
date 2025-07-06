@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Mientras vivimos",
+    "summary": "Judit, joven escritora en Barcelona, se enfrenta al dolor de crecer.",
+    "image": "data/assets/portadas/mientras_vivimos.jpg",
+    "file": "data/libros/mientras_vivimos.pdf",
+    "isbn": "9788408041234",
+    "asin": "B000ABCDE1",
+    "language": "es",
+    "format": "Paperback",
+    "authors": [
+      {
+        "author_id": 1,
+        "name": "Maruja Torres",
+        "photo": "https://example.com/authors/torres.jpg",
+        "verified": true
+      }
+    ],
+    "tags": "drama, crecimiento personal",
+    "public": true,
+    "seen": 127,
+    "verified": true
+  }
+]
